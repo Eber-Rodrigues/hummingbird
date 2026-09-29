@@ -1,0 +1,6 @@
+{
+  "name": "Hummingbird - Melody Dismiss Alarm App",
+  "description": "Modern landing page for Hummingbird, the Android alarm that stops unconscious snoozing by requiring you to hum back a short musical melody.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
